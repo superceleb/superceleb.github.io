@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://BLOG14/sitemap.xml
