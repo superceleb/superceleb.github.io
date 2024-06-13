@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap : https://BLOG14/sitemap.xml
+Sitemap : https://superceleb.github.io/sitemap.xml
